@@ -26,18 +26,6 @@ Built with simplicity, accessibility, and responsiveness in mind.
 
 ---
 
-## ✍️ How to Edit This Project
-
-### ✅ **Using Lovable (Recommended)**
-
-Edit directly via Lovable:  
-👉 [Open the Project on Lovable](https://lovable.dev/projects/9443eb9d-bb52-4f2d-bf7c-8fb4ed0a7148)
-
-- Use AI-assisted prompts to edit the project.
-- All changes are automatically committed to this repository.
-
----
-
 ### 💻 **Using Your Local Environment (IDE)**
 
 Clone and run the project locally:
