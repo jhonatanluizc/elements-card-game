@@ -1,73 +1,57 @@
-# Welcome to your Lovable project
+# 🌟 Elements Card Game
 
-## Project info
+Welcome to the official repository of **Elements Card Game**!  
+A digital card game where strategy meets the four elements — Fire, Water, Earth, and Air — in thrilling battles.
 
-**URL**: https://lovable.dev/projects/9443eb9d-bb52-4f2d-bf7c-8fb4ed0a7148
+🎮 Play the game here: [https://jhonatanluizc.github.io/elements-card-game/](https://jhonatanluizc.github.io/elements-card-game/)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 About the Project
 
-**Use Lovable**
+**Elements Card Game** is a casual card game where players combine cards representing the four classical elements, each with values from 1 to 7.  
+The goal is to create a fun, dynamic, and visually pleasing experience directly in the browser.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/9443eb9d-bb52-4f2d-bf7c-8fb4ed0a7148) and start prompting.
+Built with simplicity, accessibility, and responsiveness in mind.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🛠️ Tech Stack
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- ⚡ **Vite** — Ultra-fast build tool
+- 🧠 **TypeScript** — Strongly typed JavaScript
+- ⚛️ **React** — UI library for modern web apps
+- 🎨 **Tailwind CSS** — Utility-first CSS framework
+- 🧩 **shadcn-ui** — Accessible and beautifully designed UI components
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## ✍️ How to Edit This Project
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+### ✅ **Using Lovable (Recommended)**
+
+Edit directly via Lovable:  
+👉 [Open the Project on Lovable](https://lovable.dev/projects/9443eb9d-bb52-4f2d-bf7c-8fb4ed0a7148)
+
+- Use AI-assisted prompts to edit the project.
+- All changes are automatically committed to this repository.
+
+---
+
+### 💻 **Using Your Local Environment (IDE)**
+
+Clone and run the project locally:
+
+```bash
+# Clone this repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Navigate to the project folder
+cd elements-card-game
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start the development server
 npm run dev
 ```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/9443eb9d-bb52-4f2d-bf7c-8fb4ed0a7148) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
